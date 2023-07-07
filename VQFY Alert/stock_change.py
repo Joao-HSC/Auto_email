@@ -3,6 +3,7 @@ import yfinance as yf
 
 
 def price_delta():
+    print('Processing...')
     csv_file = 'VQFY_CONSTITUENTS.csv'
     message = 'Hey!\n\nHere\'s a list of today\'s winners/losers:\n\n'
     # Read the CSV file into a DataFrame
