@@ -1,4 +1,4 @@
-('C:\\Users\\Utilizador\\Desktop\\Projects\\VQFY '
+('C:\\Users\\Utilizador\\Desktop\\Projects\\Automated_Stock_Alerts-Stock_Market\\VQFY '
  'Alert\\build\\alert\\PYZ-00.pyz',
  [('__future__',
    'C:\\Users\\Utilizador\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\__future__.py',
@@ -136,7 +136,8 @@
    'C:\\Users\\Utilizador\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\windows_utils.py',
    'PYMODULE'),
   ('auto_email',
-   'C:\\Users\\Utilizador\\Desktop\\Projects\\VQFY Alert\\auto_email.py',
+   'C:\\Users\\Utilizador\\Desktop\\Projects\\Automated_Stock_Alerts-Stock_Market\\VQFY '
+   'Alert\\auto_email.py',
    'PYMODULE'),
   ('base64',
    'C:\\Users\\Utilizador\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\base64.py',
@@ -2686,7 +2687,8 @@
    'C:\\Users\\Utilizador\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\statistics.py',
    'PYMODULE'),
   ('stock_change',
-   'C:\\Users\\Utilizador\\Desktop\\Projects\\VQFY Alert\\stock_change.py',
+   'C:\\Users\\Utilizador\\Desktop\\Projects\\Automated_Stock_Alerts-Stock_Market\\VQFY '
+   'Alert\\stock_change.py',
    'PYMODULE'),
   ('string',
    'C:\\Users\\Utilizador\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\string.py',

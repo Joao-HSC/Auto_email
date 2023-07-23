@@ -2,15 +2,17 @@ import smtplib
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 
+# Set up your smtp here
+
 def email(message):
     # Set up the SMTP server details
     smtp_host = 'smtp.gmail.com'
     smtp_port = 587
-    smtp_username = 'stockalerthsc@gmail.com'
-    smtp_password = 'hxcunirmyzoxmuwg'
+    smtp_username = ''
+    smtp_password = ''
 
     # Set up the email content
-    sender_email = 'stockalerthsc@gmail.com'
+    sender_email = ''
     sender_name = 'VQFY Alert'
     receiver_email = input("Please input the e-mail in which you wish to receive the alert: ")
     print('\n')

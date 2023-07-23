@@ -1,4 +1,4 @@
-('C:\\Users\\Utilizador\\Desktop\\Projects\\VQFY '
+('C:\\Users\\Utilizador\\Desktop\\Projects\\Automated_Stock_Alerts-Stock_Market\\VQFY '
  'Alert\\build\\alert\\alert.pkg',
  {'BINARY': True,
   'DATA': True,
@@ -9,27 +9,27 @@
   'PYZ': False,
   'SPLASH': True},
  [('PYZ-00.pyz',
-   'C:\\Users\\Utilizador\\Desktop\\Projects\\VQFY '
+   'C:\\Users\\Utilizador\\Desktop\\Projects\\Automated_Stock_Alerts-Stock_Market\\VQFY '
    'Alert\\build\\alert\\PYZ-00.pyz',
    'PYZ'),
   ('struct',
-   'C:\\Users\\Utilizador\\Desktop\\Projects\\VQFY '
+   'C:\\Users\\Utilizador\\Desktop\\Projects\\Automated_Stock_Alerts-Stock_Market\\VQFY '
    'Alert\\build\\alert\\localpycs\\struct.pyc',
    'PYMODULE'),
   ('pyimod01_archive',
-   'C:\\Users\\Utilizador\\Desktop\\Projects\\VQFY '
+   'C:\\Users\\Utilizador\\Desktop\\Projects\\Automated_Stock_Alerts-Stock_Market\\VQFY '
    'Alert\\build\\alert\\localpycs\\pyimod01_archive.pyc',
    'PYMODULE'),
   ('pyimod02_importers',
-   'C:\\Users\\Utilizador\\Desktop\\Projects\\VQFY '
+   'C:\\Users\\Utilizador\\Desktop\\Projects\\Automated_Stock_Alerts-Stock_Market\\VQFY '
    'Alert\\build\\alert\\localpycs\\pyimod02_importers.pyc',
    'PYMODULE'),
   ('pyimod03_ctypes',
-   'C:\\Users\\Utilizador\\Desktop\\Projects\\VQFY '
+   'C:\\Users\\Utilizador\\Desktop\\Projects\\Automated_Stock_Alerts-Stock_Market\\VQFY '
    'Alert\\build\\alert\\localpycs\\pyimod03_ctypes.pyc',
    'PYMODULE'),
   ('pyimod04_pywin32',
-   'C:\\Users\\Utilizador\\Desktop\\Projects\\VQFY '
+   'C:\\Users\\Utilizador\\Desktop\\Projects\\Automated_Stock_Alerts-Stock_Market\\VQFY '
    'Alert\\build\\alert\\localpycs\\pyimod04_pywin32.pyc',
    'PYMODULE'),
   ('pyiboot01_bootstrap',
@@ -48,7 +48,8 @@
    'C:\\Users\\Utilizador\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgres.py',
    'PYSOURCE'),
   ('alert',
-   'C:\\Users\\Utilizador\\Desktop\\Projects\\VQFY Alert\\alert.py',
+   'C:\\Users\\Utilizador\\Desktop\\Projects\\Automated_Stock_Alerts-Stock_Market\\VQFY '
+   'Alert\\alert.py',
    'PYSOURCE')],
  True,
  False,
