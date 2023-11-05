@@ -1,4 +1,6 @@
 # .gitattributes
 *.html linguist-detectable=false
 *.tex linguist-vendored=true
+*.tex linguist-detectable=false
+
 
